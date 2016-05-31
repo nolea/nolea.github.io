@@ -1,5 +1,5 @@
 body{
-  background-img:deeznuts.jpg;
+  background-image:url("deeznuts.jpg");
 }
 h1{
   color:red;
