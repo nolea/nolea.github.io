@@ -2,8 +2,10 @@ body{
   background-color:#608591;
 }
 h1{
-  color:red;
+  color:#8e659c;
   font-size:25 px;
+  font-style: italic;
+  opacity: 25 px;
 }
 img{
   display:inline-block;
