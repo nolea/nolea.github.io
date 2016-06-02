@@ -1,8 +1,9 @@
 body{
-  background-image:url("deeznuts.jpg");
+  background-color:#608591;
 }
 h1{
   color:red;
+  font-size:25 px;
 }
 img{
   display:inline-block;
