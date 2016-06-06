@@ -7,6 +7,6 @@ h1{
   font-style: italic;
   opacity: 25 px;
 }
-img{
+.item{
   display:inline-block;
 }
