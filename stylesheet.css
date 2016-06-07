@@ -19,3 +19,7 @@ h1{
 .picture{
   width: 20px;
 }
+.places{
+  display:inline;
+  margin-left: 35px;
+}
