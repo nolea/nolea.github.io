@@ -13,4 +13,9 @@ h1{
 }
 #Facts{
   border:1px solid black;
+  width: 200px;
+  margin-bottom: 10px;
+}
+.picture{
+  width: 20px;
 }
