@@ -3,14 +3,14 @@ body{
 }
 h1{
   color:#8e659c;
-  font-size:25 px;
+  font-size:25px;
   font-style: italic;
-  opacity: 25 px;
+  opacity: 25px;
 }
 .item{
   display:block;
-  opacity:50 px;
+  opacity:50px;
 }
 #Facts{
-  border:1 px solid red;
+  border:1px solid red;
 }
