@@ -24,3 +24,6 @@ h1{
   margin-left: 35px;
   width: 200px;
 }
+.pics{
+  display:inline-block;
+}
